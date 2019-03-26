@@ -9,7 +9,7 @@
 缓存框架：Redis 3.2.100</br>
 数据库:MySQL 5.7</br>
 搜索:ElasticSearch 2.3.4</br>
-</br
+</br>
 前端</br>
 JS框架：jQuery 2.1.1</br>
 CSS框架：Twitter Bootstrap 3.3.7</br>
